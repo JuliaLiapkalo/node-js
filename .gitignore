@@ -1,0 +1,6 @@
+/package-lock.json
+/dist/
+/docker/
+/log/
+/.idea/
+/node_modules/
